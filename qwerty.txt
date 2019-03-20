@@ -11,5 +11,5 @@
 [rwin]>[end]
 [pup]>[ralt]
 [pdown]>[rctrl]
-[prtscr]>[pup]
-[scroll]>[pdown]
+[prtscr]>[pdown]
+[scroll]>[pup]
